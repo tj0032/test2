@@ -6,7 +6,6 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/ai.main.iml" filepath="$PROJECT_DIR$/.idea/modules/ai.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/shop.main.iml" filepath="$PROJECT_DIR$/.idea/modules/shop.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/shop.test.iml" filepath="$PROJECT_DIR$/.idea/modules/shop.test.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/test2.main.iml" filepath="$PROJECT_DIR$/.idea/modules/test2.main.iml" />
     </modules>
   </component>
 </project>
