@@ -1,0 +1,16 @@
+Index: .idea/modules/admin.main.iml
+===================================================================
+diff --git a/.idea/modules/admin.main.iml b/.idea/modules/admin.main.iml
+deleted file mode 100644
+--- a/.idea/modules/admin.main.iml	(revision 3f46426bae1941181d793c9606e89dfefe3ceb86)
++++ /dev/null	(revision 3f46426bae1941181d793c9606e89dfefe3ceb86)
+@@ -1,8 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<module version="4">
+-  <component name="AdditionalModuleElements">
+-    <content url="file://$MODULE_DIR$/../../admin/build/generated/sources/annotationProcessor/java/main">
+-      <sourceFolder url="file://$MODULE_DIR$/../../admin/build/generated/sources/annotationProcessor/java/main" isTestSource="false" generated="true" />
+-    </content>
+-  </component>
+-</module>
+\ No newline at end of file

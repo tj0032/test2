@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d57c7914-a383-41e2-abcb-ef3a87af094e" name="Changes" comment="1002j" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/admin">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/ai">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/shop">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="tj" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;tj0032&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/tj0032/test2.git&quot;,
+    &quot;accountId&quot;: &quot;af920f78-2004-4e3f-a103-393f5ddec32b&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="33UpiftpyosfTYpYicCZDWrrMIo" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Test2Application.executor": "Run",
+    "Gradle.Build admin.executor": "Run",
+    "Gradle.Build ai.executor": "Run",
+    "Gradle.Build shop.executor": "Run",
+    "Gradle.Build test2.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "Spring Boot.Test2Application.executor": "Run",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/test2/admin/src/main/resources/static/scss",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "run.configurations.included.in.services": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\test2\admin\src\main\resources\static\scss" />
+      <recent name="C:\test2\admin\src\main\resources\static\js" />
+      <recent name="C:\test2\admin\src\main\resources\static" />
+      <recent name="C:\test2\shop\src\main\java\edu\sm\app" />
+      <recent name="C:\test2\shop\src\main\java\edu\sm\common" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\test2\admin\src\main\webapp\views" />
+      <recent name="C:\test2\admin\src\main\resources\static\vendor" />
+      <recent name="C:\test2\admin\src\main\resources\static\scss\utillities" />
+      <recent name="C:\test2\admin\src\main\resources\static\scss\navs" />
+      <recent name="C:\test2\admin\src\main\resources\static\scss" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="edu.sm" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="KtorApplicationConfigurationType" />
+        <option value="MicronautRunConfigurationType" />
+        <option value="QuarkusRunConfigurationType" />
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.Test2Application">
+    <configuration name="Test2Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.sm.Test2Application" />
+      <module name="test2.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.sm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AdminApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="admin.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="edu.sm.AdminApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AiApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="ai.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="edu.sm.AiApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShopApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="shop.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="edu.sm.ShopApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test2Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="test2.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="edu.sm.Test2Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test2Application" />
+        <item itemvalue="Application.Test2Application" />
+        <item itemvalue="Application.Test2Application" />
+        <item itemvalue="Application.Test2Application" />
+        <item itemvalue="Application.Test2Application" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fbdcb00ec9e3-intellij.indexing.shared.core-IU-251.26927.53" />
+        <option value="bundled-js-predefined-d6986cc7102b-09060db00ec0-JavaScript-IU-251.26927.53" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d57c7914-a383-41e2-abcb-ef3a87af094e" name="Changes" comment="" />
+      <created>1759381634629</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1759381634629</updated>
+      <workItem from="1759381635900" duration="66000" />
+      <workItem from="1759381717892" duration="67000" />
+      <workItem from="1759381796030" duration="13000" />
+      <workItem from="1759381855559" duration="195000" />
+      <workItem from="1759382358655" duration="143000" />
+      <workItem from="1759382742018" duration="2668000" />
+      <workItem from="1759385450499" duration="1697000" />
+      <workItem from="1759387315007" duration="1393000" />
+    </task>
+    <task id="LOCAL-00001" summary="1002">
+      <option name="closed" value="true" />
+      <created>1759382613954</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1759382613954</updated>
+    </task>
+    <task id="LOCAL-00002" summary="1002">
+      <option name="closed" value="true" />
+      <created>1759382768547</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1759382768547</updated>
+    </task>
+    <task id="LOCAL-00003" summary="1002">
+      <option name="closed" value="true" />
+      <created>1759386736008</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1759386736008</updated>
+    </task>
+    <task id="LOCAL-00004" summary="1002">
+      <option name="closed" value="true" />
+      <created>1759386910550</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1759386910551</updated>
+    </task>
+    <task id="LOCAL-00005" summary="1002j">
+      <option name="closed" value="true" />
+      <created>1759387854826</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1759387854826</updated>
+    </task>
+    <task id="LOCAL-00006" summary="1002j">
+      <option name="closed" value="true" />
+      <created>1759388320477</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1759388320477</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1002" />
+    <MESSAGE value="1002j" />
+    <option name="LAST_COMMIT_MESSAGE" value="1002j" />
+  </component>
+</project>
